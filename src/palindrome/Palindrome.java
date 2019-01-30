@@ -3,10 +3,7 @@ package palindrome;
 
 import java.util.Scanner;
 
-/**
- *
- * @author paulbonenfant
- */
+
 public class Palindrome {
 
     /**
